@@ -71,8 +71,4 @@ To deploy the app to your own GitHub Pages:
    ```bash
    npm run deploy
    ```
-4. GitHub Pages will build the `dist` folder and push it to the `gh-pages` branch, making your site live instantly!
-
 ---
-
-*Developed as a frontend evaluation assignment showcasing UI excellence, complex state interactions, and component-driven architecture.*
