@@ -1,0 +1,16 @@
+.card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 22px;
+  transition: all var(--transition-normal);
+}
+
+.card.no-padding {
+  padding: 0;
+}
+
+.card.card-hover:hover {
+  box-shadow: var(--shadow-md);
+  border-color: transparent;
+}
