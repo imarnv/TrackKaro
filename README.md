@@ -44,7 +44,7 @@ To run this project locally:
    ```
 2. Navigate into the directory:
    ```bash
-   cd zoryvn
+   cd zorvyn
    ```
 3. Install dependencies:
    ```bash
