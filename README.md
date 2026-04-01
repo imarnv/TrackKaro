@@ -1,4 +1,4 @@
-# Karo - Personal Finance Dashboard
+# Track Karo - Personal Finance Dashboard
 
 Karo is a modern, responsive, and interactive frontend finance dashboard built as a demonstration of frontend development skills. It allows users to track financial activity, view comprehensive spending insights, maintain basic role-based UI states, and export data.
 
